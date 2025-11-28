@@ -6,7 +6,7 @@ public:
             r = r*10 + x%10; // Normal reverse algorithm
             x /= 10;
         }
-        if (x <= INT_MAX && x >= INT_MIN) // -2^31 <= x <= 2^31 - 1. INT_MAX and INT_MIN are already predefined in the macro. I checked.
+        if (r <= INT_MAX && r >= INT_MIN) // -2^31 <= x <= 2^31 - 1. INT_MAX and INT_MIN are already predefined in the macro. I checked.
             return (int)r; // Type casting into Integer
         else
             return 0; // As conditioned.
