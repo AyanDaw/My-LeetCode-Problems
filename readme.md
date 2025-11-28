@@ -29,8 +29,8 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 
 ## Problem index
 
-| ID   | Title             | Difficulty | Language(s) | Link                                            |
-| ---- | ----------------- | ---------- | ----------- | ----------------------------------------------- |
+| ID   | Title             | Difficulty | Language(s) | Link                                               |
+| ---- | ----------------- | ---------- | ----------- | -------------------------------------------------- |
 | 0001 | Two Sum           | Easy       | C++, Python | [0001. Two Sum](0001_Two_Sum/)                     |
 | 0002 | Add Two Numbers   | Medium     | C++, Python | [0002. Add Two Numbers](0002_Add_Two_Numbers/)     |
 | 0007 | Reverse Integer   | Medium     | C++, Python | [0007. Reverse Integer](0007_Reverse_Integer/)     |
