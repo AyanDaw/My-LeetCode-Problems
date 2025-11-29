@@ -29,16 +29,16 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 
 ## Problem index
 
-| ID   | Title             | Difficulty | Language(s) | Link                                               |
-| ---- | ----------------- | ---------- | ----------- | -------------------------------------------------- |
-| 0001 | Two Sum           | Easy       | C++, Python | [0001. Two Sum](0001_Two_Sum/)                     |
-| 0002 | Add Two Numbers   | Medium     | C++, Python | [0002. Add Two Numbers](0002_Add_Two_Numbers/)     |
-| 0007 | Reverse Integer   | Medium     | C++, Python | [0007. Reverse Integer](0007_Reverse_Integer/)     |
-| 0009 | Palindrome Number | Easy       | C++, Python | [0009. Palindrome Number](0009_Palindrome_Number/) |
-| 0013 | Roman to Integer  | Easy       | C++, Python | [0013. Roman to Integer](0013_Roman_to_Integer/)   |
+| ID   | Title                  | Difficulty | Language(s) | Link                                                           |
+| ---- | ---------------------- | ---------- | ----------- | -------------------------------------------------------------- |
+| 0001 | Two Sum                | Easy       | C++, Python | [0001. Two Sum](0001_Two_Sum/)                                 |
+| 0002 | Add Two Numbers        | Medium     | C++, Python | [0002. Add Two Numbers](0002_Add_Two_Numbers/)                 |
+| 0007 | Reverse Integer        | Medium     | C++, Python | [0007. Reverse Integer](0007_Reverse_Integer/)                 |
+| 0009 | Palindrome Number      | Easy       | C++, Python | [0009. Palindrome Number](0009_Palindrome_Number/)             |
+| 0013 | Roman to Integer       | Easy       | C++, Python | [0013. Roman to Integer](0013_Roman_to_Integer/)               |
+| 0041 | First Missing Positive | Hard       | C++, Python | [0041. First Missing Positive](0041_First_Missing_Positive/)   |
 
 ---
-
 
 <!-- ## Per-problem notes
 
@@ -71,5 +71,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-
-*Readme last updated: 11/28/2025*
+*Readme last updated: 11/29/2025*
