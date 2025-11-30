@@ -36,6 +36,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0007 | Reverse Integer        | Medium     | C++, Python | [0007. Reverse Integer](0007_Reverse_Integer/)                 |
 | 0009 | Palindrome Number      | Easy       | C++, Python | [0009. Palindrome Number](0009_Palindrome_Number/)             |
 | 0013 | Roman to Integer       | Easy       | C++, Python | [0013. Roman to Integer](0013_Roman_to_Integer/)               |
+| 0014 | Longest Common Prefix  | Easy       | C++, Python | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)     |
 | 0041 | First Missing Positive | Hard       | C++, Python | [0041. First Missing Positive](0041_First_Missing_Positive/)   |
 
 ---
@@ -71,4 +72,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-*Readme last updated: 11/29/2025*
+*Readme last updated: 11/30/2025*
