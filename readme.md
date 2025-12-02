@@ -36,6 +36,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0004 | Median of Two Sorted Arrays        | Hard       | C++, Python | [0004. Median of Two Sorted Arrays](0004_Median_of_Two_Sorted_Arrays/) |
 | 0007 | Reverse Integer                    | Medium     | C++, Python | [0007. Reverse Integer](0007_Reverse_Integer/)                         |
 | 0009 | Palindrome Number                  | Easy       | C++, Python | [0009. Palindrome Number](0009_Palindrome_Number/)                     |
+| 0011 | Container With Most Water          | Medium     | C++, Python | [0011. Container With Most Water](0011_Container_With_Most_Water/)     |
 | 0013 | Roman to Integer                   | Easy       | C++, Python | [0013. Roman to Integer](0013_Roman_to_Integer/)                       |
 | 0014 | Longest Common Prefix              | Easy       | C++, Python | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)             |
 | 0041 | First Missing Positive             | Hard       | C++, Python | [0041. First Missing Positive](0041_First_Missing_Positive/)           |
