@@ -39,6 +39,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0011 | Container With Most Water          | Medium     | C++, Python | [0011. Container With Most Water](0011_Container_With_Most_Water/)     |
 | 0013 | Roman to Integer                   | Easy       | C++, Python | [0013. Roman to Integer](0013_Roman_to_Integer/)                       |
 | 0014 | Longest Common Prefix              | Easy       | C++, Python | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)             |
+| 0026 | Remove Duplicates from Sorted Array| Easy       | C++, Python | [0026. Remove Duplicates from Sorted Array](0026_Remove_Duplicates_from_Sorted_Array/)|
 | 0041 | First Missing Positive             | Hard       | C++, Python | [0041. First Missing Positive](0041_First_Missing_Positive/)           |
 
 ---
@@ -74,4 +75,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-*Readme last updated: 12/01/2025*
+*Readme last updated: 12/03/2025*
