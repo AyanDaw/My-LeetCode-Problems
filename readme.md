@@ -40,6 +40,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0013 | Roman to Integer                   | Easy       | C++, Python | [0013. Roman to Integer](0013_Roman_to_Integer/)                       |
 | 0014 | Longest Common Prefix              | Easy       | C++, Python | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)             |
 | 0026 | Remove Duplicates from Sorted Array| Easy       | C++, Python | [0026. Remove Duplicates from Sorted Array](0026_Remove_Duplicates_from_Sorted_Array/)|
+| 0027 | Remove Element                     | Easy       | C++, Python | [0027. Remove Element](0027_Remove_Element/)                           |
 | 0041 | First Missing Positive             | Hard       | C++, Python | [0041. First Missing Positive](0041_First_Missing_Positive/)           |
 
 ---
