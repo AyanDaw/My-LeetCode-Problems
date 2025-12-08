@@ -34,6 +34,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0001 | Two Sum                             | Easy       | C++, Python | [0001. Two Sum](0001_Two_Sum/)                                                         |
 | 0002 | Add Two Numbers                     | Medium     | C++, Python | [0002. Add Two Numbers](0002_Add_Two_Numbers/)                                         |
 | 0004 | Median of Two Sorted Arrays         | Hard       | C++, Python | [0004. Median of Two Sorted Arrays](0004_Median_of_Two_Sorted_Arrays/)                 |
+| 0005 | Longest Palindromic Substring       | Medium     | C++, Python | [0005. Longest Palindromic Substring](0005_Longest_Palindromic_Substring/)             |
 | 0007 | Reverse Integer                     | Medium     | C++, Python | [0007. Reverse Integer](0007_Reverse_Integer/)                                         |
 | 0009 | Palindrome Number                   | Easy       | C++, Python | [0009. Palindrome Number](0009_Palindrome_Number/)                                     |
 | 0011 | Container With Most Water           | Medium     | C++, Python | [0011. Container With Most Water](0011_Container_With_Most_Water/)                     |
@@ -79,4 +80,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-*Readme last updated: 12/07/2025*
+*Readme last updated: 12/09/2025*
