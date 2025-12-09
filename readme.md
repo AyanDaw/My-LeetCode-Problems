@@ -37,6 +37,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0005 | Longest Palindromic Substring       | Medium     | C++, Python | [0005. Longest Palindromic Substring](0005_Longest_Palindromic_Substring/)             |
 | 0007 | Reverse Integer                     | Medium     | C++, Python | [0007. Reverse Integer](0007_Reverse_Integer/)                                         |
 | 0009 | Palindrome Number                   | Easy       | C++, Python | [0009. Palindrome Number](0009_Palindrome_Number/)                                     |
+| 0010 | Regular Expression Matching         | Hard       | C++, Python | [0010. Regular Expression Matching](0010_Regular_Expression_Matching/)                 |
 | 0011 | Container With Most Water           | Medium     | C++, Python | [0011. Container With Most Water](0011_Container_With_Most_Water/)                     |
 | 0013 | Roman to Integer                    | Easy       | C++, Python | [0013. Roman to Integer](0013_Roman_to_Integer/)                                       |
 | 0014 | Longest Common Prefix               | Easy       | C++, Python | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)                             |
