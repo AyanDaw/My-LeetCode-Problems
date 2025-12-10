@@ -8,7 +8,7 @@ class Solution:
 
         if (i >= 0 and j < 0):
             while (i >= 0):
-                if (p[i] != '*'): return False
+                if (p[i] != '*' or i-1<0): return False
                 i -= 2
             return True
 
@@ -19,11 +19,11 @@ class Solution:
             return dp[i][j]
 
         if (p[i] == '*'):
-            zero = False
+            zero = False # Initializing
             if (i - 2 >= -1):
                 zero = self.f(i - 2, j, p, s, dp)
 
-            oneOrMore = False
+            oneOrMore = False # Initializing
             if (i - 1 >= 0 and j >= 0 and (p[i-1] == s[j] or p[i-1] == '.')):
                 oneOrMore = self.f(i, j - 1, p, s, dp)
 
