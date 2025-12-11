@@ -43,11 +43,12 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0014 | Longest Common Prefix               | Easy       | C++, Python | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)                             |
 | 0015 | 3Sum                                | Medium     | C++, Python | [0015. 3Sum](0015_3Sum/)                                                               |
 | 0018 | 4Sum                                | Medium     | C++, Python | [0018. 4Sum](0018_4Sum/)                                                               |
-| 0022 | Generate Parentheses                | Medium     | C++, Python | [0022. Generate Parentheses](0022_Generate_Parentheses/)                                     |
+| 0022 | Generate Parentheses                | Medium     | C++, Python | [0022. Generate Parentheses](0022_Generate_Parentheses/)                               |
 | 0026 | Remove Duplicates from Sorted Array | Easy       | C++, Python | [0026. Remove Duplicates from Sorted Array](0026_Remove_Duplicates_from_Sorted_Array/) |
 | 0027 | Remove Element                      | Easy       | C++, Python | [0027. Remove Element](0027_Remove_Element/)                                           |
 | 0035 | Search Insert Position              | Easy       | C++, Python | [0035. Search Insert Position](0035_Search_Insert_Position/)                           |
 | 0041 | First Missing Positive              | Hard       | C++, Python | [0041. First Missing Positive](0041_First_Missing_Positive/)                           |
+| 0044 | Wildcard Matching                   | Hard       | C++, Python | [0044. Wildcard Matching](0044_Wildcard_Matching/)                                     |
 
 ---
 
@@ -82,4 +83,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-*Readme last updated: 12/09/2025*
+*Readme last updated: 12/11/2025*
