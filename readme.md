@@ -50,6 +50,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0035 | Search Insert Position              | Easy       | C++, Python | [0035. Search Insert Position](0035_Search_Insert_Position/)                           |
 | 0041 | First Missing Positive              | Hard       | C++, Python | [0041. First Missing Positive](0041_First_Missing_Positive/)                           |
 | 0044 | Wildcard Matching                   | Hard       | C++, Python | [0044. Wildcard Matching](0044_Wildcard_Matching/)                                     |
+| 0053 | Maximum Subarray                    | Medium     | C++, Python | [0053. Maximum Subarray](0053_Maximum_Subarray/)                                       |
 
 ---
 
