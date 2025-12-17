@@ -54,6 +54,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0045 | [0045. Jump Game II](0045_Jump_Game_II/)                                                   | Medium     | C++, Python |
 | 0053 | [0053. Maximum Subarray](0053_Maximum_Subarray/)                                           | Medium     | C++, Python |
 | 0055 | [0055. Jump Game](0055_Jump_Game/)                                                         | Medium     | C++, Python |
+| 0062 | [0062. Unique Paths](0062_Unique_Paths/)                                                   | Medium     | C++, Python |
 
 ---
 
