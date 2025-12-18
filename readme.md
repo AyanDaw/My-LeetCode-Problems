@@ -43,6 +43,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0014 | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)                                 | Easy       | C++, Python |
 | 0015 | [0015. 3Sum](0015_3Sum/)                                                                   | Medium     | C++, Python |
 | 0018 | [0018. 4Sum](0018_4Sum/)                                                                   | Medium     | C++, Python |
+| 0020 | [0020. Valid Parentheses](0020_Valid_Parentheses/)                                         | Easy       | C++, Python |
 | 0022 | [0022. Generate Parentheses](0022_Generate_Parentheses/)                                   | Medium     | C++, Python |
 | 0026 | [0026. Remove Duplicates from Sorted Array](0026_Remove_Duplicates_from_Sorted_Array/)     | Easy       | C++, Python |
 | 0027 | [0027. Remove Element](0027_Remove_Element/)                                               | Easy       | C++, Python |
