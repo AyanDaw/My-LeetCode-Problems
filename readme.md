@@ -91,4 +91,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-*Readme last updated: 12/11/2025*
+*Readme last updated: 12/19/2025*
