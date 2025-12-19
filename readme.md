@@ -29,33 +29,34 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 
 ## Problem index
 
-| ID   | Title                                                                                      | Difficulty | Language(s) |
-| ---- | ------------------------------------------------------------------------------------------ | ---------- | ----------- | 
-| 0001 | [0001. Two Sum](0001_Two_Sum/)                                                             | Easy       | C++, Python |
-| 0002 | [0002. Add Two Numbers](0002_Add_Two_Numbers/)                                             | Medium     | C++, Python |
-| 0004 | [0004. Median of Two Sorted Arrays](0004_Median_of_Two_Sorted_Arrays/)                     | Hard       | C++, Python |
-| 0005 | [0005. Longest Palindromic Substring](0005_Longest_Palindromic_Substring/)                 | Medium     | C++, Python |
-| 0007 | [0007. Reverse Integer](0007_Reverse_Integer/)                                             | Medium     | C++, Python |
-| 0009 | [0009. Palindrome Number](0009_Palindrome_Number/)                                         | Easy       | C++, Python |
-| 0010 | [0010. Regular Expression Matching](0010_Regular_Expression_Matching/)                     | Hard       | C++, Python |
-| 0011 | [0011. Container With Most Water](0011_Container_With_Most_Water/)                         | Medium     | C++, Python |
-| 0013 | [0013. Roman to Integer](0013_Roman_to_Integer/)                                           | Easy       | C++, Python |
-| 0014 | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)                                 | Easy       | C++, Python |
-| 0015 | [0015. 3Sum](0015_3Sum/)                                                                   | Medium     | C++, Python |
-| 0018 | [0018. 4Sum](0018_4Sum/)                                                                   | Medium     | C++, Python |
-| 0020 | [0020. Valid Parentheses](0020_Valid_Parentheses/)                                         | Easy       | C++, Python |
-| 0022 | [0022. Generate Parentheses](0022_Generate_Parentheses/)                                   | Medium     | C++, Python |
-| 0026 | [0026. Remove Duplicates from Sorted Array](0026_Remove_Duplicates_from_Sorted_Array/)     | Easy       | C++, Python |
-| 0027 | [0027. Remove Element](0027_Remove_Element/)                                               | Easy       | C++, Python |
-| 0032 | [0032. Longest Valid Parentheses](0032_Longest_Valid_Parentheses/)                         | Hard       | C++, Python |
-| 0035 | [0035. Search Insert Position](0035_Search_Insert_Position/)                               | Easy       | C++, Python |
-| 0041 | [0041. First Missing Positive](0041_First_Missing_Positive/)                               | Hard       | C++, Python |
-| 0042 | [0042. Trapping Rain Water](0042_Trapping_Rain_Water/)                                     | Hard       | C++, Python |
-| 0044 | [0044. Wildcard Matching](0044_Wildcard_Matching/)                                         | Hard       | C++, Python |
-| 0045 | [0045. Jump Game II](0045_Jump_Game_II/)                                                   | Medium     | C++, Python |
-| 0053 | [0053. Maximum Subarray](0053_Maximum_Subarray/)                                           | Medium     | C++, Python |
-| 0055 | [0055. Jump Game](0055_Jump_Game/)                                                         | Medium     | C++, Python |
-| 0062 | [0062. Unique Paths](0062_Unique_Paths/)                                                   | Medium     | C++, Python |
+| ID   | Title                                                                                                              | Difficulty | Language(s) |
+| ---- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ----------- | 
+| 0001 | [0001. Two Sum](0001_Two_Sum/)                                                                                     | Easy       | C++, Python |
+| 0002 | [0002. Add Two Numbers](0002_Add_Two_Numbers/)                                                                     | Medium     | C++, Python |
+| 0003 | [0003. Longest Substring Without Repeating Characters](0003_Longest_Substring_Without_Repeating_Characters/)       | Medium     | C++, Python |
+| 0004 | [0004. Median of Two Sorted Arrays](0004_Median_of_Two_Sorted_Arrays/)                                             | Hard       | C++, Python |
+| 0005 | [0005. Longest Palindromic Substring](0005_Longest_Palindromic_Substring/)                                         | Medium     | C++, Python |
+| 0007 | [0007. Reverse Integer](0007_Reverse_Integer/)                                                                     | Medium     | C++, Python |
+| 0009 | [0009. Palindrome Number](0009_Palindrome_Number/)                                                                 | Easy       | C++, Python |
+| 0010 | [0010. Regular Expression Matching](0010_Regular_Expression_Matching/)                                             | Hard       | C++, Python |
+| 0011 | [0011. Container With Most Water](0011_Container_With_Most_Water/)                                                 | Medium     | C++, Python |
+| 0013 | [0013. Roman to Integer](0013_Roman_to_Integer/)                                                                   | Easy       | C++, Python |
+| 0014 | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)                                                         | Easy       | C++, Python |
+| 0015 | [0015. 3Sum](0015_3Sum/)                                                                                           | Medium     | C++, Python |
+| 0018 | [0018. 4Sum](0018_4Sum/)                                                                                           | Medium     | C++, Python |
+| 0020 | [0020. Valid Parentheses](0020_Valid_Parentheses/)                                                                 | Easy       | C++, Python |
+| 0022 | [0022. Generate Parentheses](0022_Generate_Parentheses/)                                                           | Medium     | C++, Python |
+| 0026 | [0026. Remove Duplicates from Sorted Array](0026_Remove_Duplicates_from_Sorted_Array/)                             | Easy       | C++, Python |
+| 0027 | [0027. Remove Element](0027_Remove_Element/)                                                                       | Easy       | C++, Python |
+| 0032 | [0032. Longest Valid Parentheses](0032_Longest_Valid_Parentheses/)                                                 | Hard       | C++, Python |
+| 0035 | [0035. Search Insert Position](0035_Search_Insert_Position/)                                                       | Easy       | C++, Python |
+| 0041 | [0041. First Missing Positive](0041_First_Missing_Positive/)                                                       | Hard       | C++, Python |
+| 0042 | [0042. Trapping Rain Water](0042_Trapping_Rain_Water/)                                                             | Hard       | C++, Python |
+| 0044 | [0044. Wildcard Matching](0044_Wildcard_Matching/)                                                                 | Hard       | C++, Python |
+| 0045 | [0045. Jump Game II](0045_Jump_Game_II/)                                                                           | Medium     | C++, Python |
+| 0053 | [0053. Maximum Subarray](0053_Maximum_Subarray/)                                                                   | Medium     | C++, Python |
+| 0055 | [0055. Jump Game](0055_Jump_Game/)                                                                                 | Medium     | C++, Python |
+| 0062 | [0062. Unique Paths](0062_Unique_Paths/)                                                                           | Medium     | C++, Python |
 
 ---
 
