@@ -37,6 +37,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0004 | [0004. Median of Two Sorted Arrays](0004_Median_of_Two_Sorted_Arrays/)                                             | Hard       | C++, Python |
 | 0005 | [0005. Longest Palindromic Substring](0005_Longest_Palindromic_Substring/)                                         | Medium     | C++, Python |
 | 0007 | [0007. Reverse Integer](0007_Reverse_Integer/)                                                                     | Medium     | C++, Python |
+| 0008 | [0008. String to Integer (atoi)](0008_String_to_Integer_(atoi)/)                                                   | Medium     | C++, Python |
 | 0009 | [0009. Palindrome Number](0009_Palindrome_Number/)                                                                 | Easy       | C++, Python |
 | 0010 | [0010. Regular Expression Matching](0010_Regular_Expression_Matching/)                                             | Hard       | C++, Python |
 | 0011 | [0011. Container With Most Water](0011_Container_With_Most_Water/)                                                 | Medium     | C++, Python |
