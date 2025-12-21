@@ -41,6 +41,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0009 | [0009. Palindrome Number](0009_Palindrome_Number/)                                                                 | Easy       | C++, Python |
 | 0010 | [0010. Regular Expression Matching](0010_Regular_Expression_Matching/)                                             | Hard       | C++, Python |
 | 0011 | [0011. Container With Most Water](0011_Container_With_Most_Water/)                                                 | Medium     | C++, Python |
+| 0012 | [0012. Integer to Roman](0012_Integer_to_Roman/)                                                                   | Medium     | C++, Python |
 | 0013 | [0013. Roman to Integer](0013_Roman_to_Integer/)                                                                   | Easy       | C++, Python |
 | 0014 | [0014. Longest Common Prefix](0014_Longest_Common_Prefix/)                                                         | Easy       | C++, Python |
 | 0015 | [0015. 3Sum](0015_3Sum/)                                                                                           | Medium     | C++, Python |
@@ -92,4 +93,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-*Readme last updated: 12/19/2025*
+*Readme last updated: 12/21/2025*
