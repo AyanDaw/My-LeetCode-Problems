@@ -59,6 +59,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0053 | [0053. Maximum Subarray](0053_Maximum_Subarray/)                                                                   | Medium     | C++, Python |
 | 0055 | [0055. Jump Game](0055_Jump_Game/)                                                                                 | Medium     | C++, Python |
 | 0062 | [0062. Unique Paths](0062_Unique_Paths/)                                                                           | Medium     | C++, Python |
+| 0066 | [0066. Plus One](0066_Plus_One/)                                                                                   | Easy       | C++, Python |
 
 ---
 
@@ -93,4 +94,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-*Readme last updated: 12/21/2025*
+*Readme last updated: 12/22/2025*

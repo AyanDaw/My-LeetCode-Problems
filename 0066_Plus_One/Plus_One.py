@@ -6,4 +6,4 @@ class Solution:
                 return digits
             digits[i] = 0
 
-        return [1] + digits
+        return [1] + digits # Carry Forwarding 1 for the inputs of 9, like 9, 99, 999 etc.
