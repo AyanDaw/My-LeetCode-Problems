@@ -50,6 +50,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0022 | [0022. Generate Parentheses](0022_Generate_Parentheses/)                                                           | Medium     | C++, Python |
 | 0026 | [0026. Remove Duplicates from Sorted Array](0026_Remove_Duplicates_from_Sorted_Array/)                             | Easy       | C++, Python |
 | 0027 | [0027. Remove Element](0027_Remove_Element/)                                                                       | Easy       | C++, Python |
+| 0029 | [0029. Divide Two Integers](0029_Divide_Two_Integers/)                                                             | Medium     | C++, Python |
 | 0032 | [0032. Longest Valid Parentheses](0032_Longest_Valid_Parentheses/)                                                 | Hard       | C++, Python |
 | 0035 | [0035. Search Insert Position](0035_Search_Insert_Position/)                                                       | Easy       | C++, Python |
 | 0041 | [0041. First Missing Positive](0041_First_Missing_Positive/)                                                       | Hard       | C++, Python |

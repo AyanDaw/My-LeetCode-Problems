@@ -20,11 +20,14 @@ class Solution:
             tempdivisor = divisor
             tempquo = 1
             while dividend >= (tempdivisor << 1):
+                # << eta ekta binary operator jeta bit ke left e order deoa ghor onujayi binary te soray
+                # example: 2 = 10, << korle hobe 100 = 2 x 2^1 = 4, Zero diye notun ghor ta fill up holo.
+                # indirectly eta 2^x er moto kaj kore, 2 = 10, eke <<3 korle tinghor sorbe, so 10000 = 2 x 2^3 = 16
+                # <<=, = ta assign kore ager variable tai.
                 tempdivisor <<= 1 # Ek ghor bitwise left shift
                 # etar mane joto ghor shift toto bar 2 diye multiply holo
                 tempquo <<= 1
                 # Jehetu tempdivisor = tempquo * divisor
-                # etar mane 2 to the power n ke diye divisor ke gun korlo
                 #jotokhun ota fit hoche tai edike tempquo o sei rate e barche
             # joto khun fit holo totokhun barlo ebar, biyog er pala
             dividend -= tempdivisor
