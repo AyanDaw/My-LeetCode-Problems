@@ -55,6 +55,7 @@ This repository contains my solved LeetCode problems (C++ and Python). Each prob
 | 0035 | [0035. Search Insert Position](0035_Search_Insert_Position/)                                                       | Easy       | C++, Python |
 | 0041 | [0041. First Missing Positive](0041_First_Missing_Positive/)                                                       | Hard       | C++, Python |
 | 0042 | [0042. Trapping Rain Water](0042_Trapping_Rain_Water/)                                                             | Hard       | C++, Python |
+| 0043 | [0043. Multiply Strings](0043_Multiply_Strings/)                                                                   | Medium     | C++, Python |
 | 0044 | [0044. Wildcard Matching](0044_Wildcard_Matching/)                                                                 | Hard       | C++, Python |
 | 0045 | [0045. Jump Game II](0045_Jump_Game_II/)                                                                           | Medium     | C++, Python |
 | 0053 | [0053. Maximum Subarray](0053_Maximum_Subarray/)                                                                   | Medium     | C++, Python |
@@ -95,4 +96,4 @@ This makes scanning your repo far faster and helps future-you remember the idea 
 - Use consistent naming: `0001_Two_Sum/solution.cpp`. Inconsistent names will make automation brittle.
 - If you later add automation (index generator), keep folder metadata minimal and consistent (e.g., `difficulty:` in each problem README).-->
 
-*Readme last updated: 12/22/2025*
+*Readme last updated: 12/24/2025*
